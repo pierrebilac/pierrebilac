@@ -3,4 +3,4 @@
 [![Github: pierrebilac](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pierrebilac)
 
 
-My name is Pierre Bilac. I'm a PHP and JavaScript web developer from Paris, France.
+Je m'appelle Pierre Bilac et je suis développeur full-stack. Je développe avec Symfony, Laravel et WordPress des applications web avec ❤️
