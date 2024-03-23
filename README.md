@@ -3,4 +3,4 @@
 [![Github: pierrebilac](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pierrebilac)
 
 
-Je m'appelle Pierre Bilac et je suis développeur full-stack. Je développe avec Symfony, Laravel et WordPress des applications web avec 🫶
+Je m'appelle Pierre Bilac, je suis développeur backend et je développe avec Symfony et 🫶
