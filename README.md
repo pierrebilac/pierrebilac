@@ -8,6 +8,3 @@ préfèrent qu'on leur parle des arbitrages plutôt que des recettes.
 
 🔗 [lecodeestdanslepre.fr](https://lecodeestdanslepre.fr) — le blog
 🔗 [LinkedIn](https://www.linkedin.com/in/pierrebilac/)
-
-> *« Déléguer son raisonnement à un LLM, c'est confortable.
-> C'est aussi comme ça qu'on perd un métier. »*
